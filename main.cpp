@@ -94,4 +94,5 @@ int main()
 
     PlayFizzBuzz(PlayUntilThisValue, FizzValue, BuzzValue);
 
+    return 0;
 }
