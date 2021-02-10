@@ -64,7 +64,7 @@ int PlayFizzBuzz(int MaxNumber, int ValueAtFizz, int ValueAtBuzz)
         }
         i++;
     } //end of game loop
-
+    return 1;
 }
 
 
